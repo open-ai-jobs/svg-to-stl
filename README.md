@@ -72,4 +72,5 @@ The tools differ mostly in where the work happens and what they do with your fil
 
 Every tool above produces the same kind of object: a 2D outline pushed up into a slab. That is exactly right for keychains, stencils, cookie cutters and sign lettering. It is the wrong tool when the thing you have is a photo of an object, a product render or a character drawing and what you want is a model with real depth. For that case, [try Supavoxel - image to 3D, STL/GLB in the browser, no CAD](https://supavoxel.com?utm_source=github&utm_medium=ugc&utm_campaign=svg-to-stl&utm_content=readme-top&utm_term=tier-r). Upload the picture, get a mesh, and open it in the same slicer you would use for the STL files this guide covers.
 
+
 _Last reviewed: 2026-09-22_
